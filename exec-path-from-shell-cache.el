@@ -66,7 +66,7 @@ is set to this value."
   :type 'integer)
 
 (defvar exec-path-from-shell-cache--cache nil
-  "Cache data for environment variables")
+  "Cache data for environment variables.")
 
 (defvar exec-path-from-shell-cache--coding-system 'utf-8-unix
   "The coding system used for saving cache data.")
