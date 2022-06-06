@@ -5,7 +5,7 @@
 ;; Author: Kouhei Yanagita <yanagi@shakenbu.org>
 ;; URL: https://github.com/kyanagi/exec-path-from-shell-cache
 ;; Version: 0.0.1
-;; Package-Requires: (exec-path-from-shell)
+;; Package-Requires: ((emacs "24.1") (exec-path-from-shell))
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
