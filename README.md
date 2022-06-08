@@ -9,14 +9,14 @@ and saves time on shell calls.
 
 If you have the following configuration,
 
-```
+```elisp
 (require 'exec-path-from-shell)
 (exec-path-from-shell-initialize)
 ```
 
 rewrite it as follows:
 
-```
+```elisp
 (require 'exec-path-from-shell-cache)
 (exec-path-from-shell-cache-initialize-with-cache)
 ```
