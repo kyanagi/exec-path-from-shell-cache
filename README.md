@@ -24,3 +24,11 @@ rewrite it as follows:
 Cache data is saved to the file specified by `exec-path-from-shell-cache-file`.
 If environment variables in your shell are updated,
 run `exec-path-from-shell-cache-force-initialize` to reload them.
+
+## License
+
+GPLv3 or later
+
+## Author
+
+Kouhei Yanagita
